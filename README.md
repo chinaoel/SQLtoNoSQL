@@ -1,2 +1,2 @@
 # SQLtoNoSQL
-MongoDB documents export Knowledge Graph in neo4j 
+Please refer to our paper : MagicGraph: Enhanced Knowledge Discovery with Graph Database [Link]
